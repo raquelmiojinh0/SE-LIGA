@@ -1,0 +1,17 @@
+:root {
+    color: blue;
+}
+
+body {
+    background-image: url();
+}
+
+header {
+    background-color: black;
+    color: blueviolet;
+}
+
+footer{
+    background-color: blueviolet;
+    color: blue;
+}
